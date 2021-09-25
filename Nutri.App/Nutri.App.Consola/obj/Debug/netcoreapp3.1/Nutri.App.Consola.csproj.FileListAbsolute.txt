@@ -1,0 +1,13 @@
+C:\Nutri.App\Nutri.App.Consola\bin\Debug\netcoreapp3.1\Nutri.App.Consola.exe
+C:\Nutri.App\Nutri.App.Consola\bin\Debug\netcoreapp3.1\Nutri.App.Consola.deps.json
+C:\Nutri.App\Nutri.App.Consola\bin\Debug\netcoreapp3.1\Nutri.App.Consola.runtimeconfig.json
+C:\Nutri.App\Nutri.App.Consola\bin\Debug\netcoreapp3.1\Nutri.App.Consola.runtimeconfig.dev.json
+C:\Nutri.App\Nutri.App.Consola\bin\Debug\netcoreapp3.1\Nutri.App.Consola.dll
+C:\Nutri.App\Nutri.App.Consola\bin\Debug\netcoreapp3.1\Nutri.App.Consola.pdb
+C:\Nutri.App\Nutri.App.Consola\obj\Debug\netcoreapp3.1\Nutri.App.Consola.csprojAssemblyReference.cache
+C:\Nutri.App\Nutri.App.Consola\obj\Debug\netcoreapp3.1\Nutri.App.Consola.AssemblyInfoInputs.cache
+C:\Nutri.App\Nutri.App.Consola\obj\Debug\netcoreapp3.1\Nutri.App.Consola.AssemblyInfo.cs
+C:\Nutri.App\Nutri.App.Consola\obj\Debug\netcoreapp3.1\Nutri.App.Consola.csproj.CoreCompileInputs.cache
+C:\Nutri.App\Nutri.App.Consola\obj\Debug\netcoreapp3.1\Nutri.App.Consola.dll
+C:\Nutri.App\Nutri.App.Consola\obj\Debug\netcoreapp3.1\Nutri.App.Consola.pdb
+C:\Nutri.App\Nutri.App.Consola\obj\Debug\netcoreapp3.1\Nutri.App.Consola.genruntimeconfig.cache
